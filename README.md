@@ -1,1 +1,2 @@
-#ScalaX
+# scalaX
+Exploring Scala
